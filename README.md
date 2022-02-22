@@ -11,6 +11,10 @@ Visit my [homepage](https://robertladwig.github.io) or [follow @hydrobert on Twi
 </td><td valign="top">
 
   </td></tr></table>
+  
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertladwig&show_icons=true&theme=merko)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=robertladwig&layout=compact&theme=merko)
+
 
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 <!--
