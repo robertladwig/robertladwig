@@ -4,6 +4,7 @@ Visit my [homepage](https://robertladwig.github.io) or [follow @hydrobert on Twi
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [metabolism-phenology v0.3 L&O](https://github.com/LimnoDataScience/metabolism_phenology/releases/tag/v0.3) - 2022-03-16
 * [thermod v1.0 forecasting](https://github.com/robertladwig/thermod/releases/tag/v1.0) - 2021-06-09
 * [salinizaition-lakestratification v0.9 L&O letters submission](https://github.com/robertladwig/salinization_lakestratification/releases/tag/v0.9) - 2020-06-09
 * [lakeensemblr v1.0.0](https://github.com/aemon-j/LakeEnsemblR/releases/tag/v1.0.0) - 2020-10-28
