@@ -1,4 +1,4 @@
-Visit my [homepage](www.robert-ladwig.com) or [follow @hydrobert on Twitter](https://twitter.com/hydrobert).
+Visit my [homepage](https://www.robert-ladwig.com) or [follow @hydrobert on Twitter](https://twitter.com/hydrobert).
 
 <table><tr><td valign="top">
 
